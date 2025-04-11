@@ -1,2 +1,7 @@
 # js-playground
-A quick, easy way for me to experiment with Javascript when I need to.
+
+The `bin` directory contains a script to start a local dev server using Ruby. Simply run the command below.
+
+```sh
+bin/dev
+```

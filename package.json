@@ -1,0 +1,12 @@
+{
+  "name": "js-playground",
+  "scripts": {
+    "serve": "bin/dev"
+  },
+  "author": "n-at-han-k",
+  "license": "MIT",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.2",
+    "es-module-shims": "^2.0.10"
+  }
+}
